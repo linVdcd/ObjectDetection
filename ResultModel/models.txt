@@ -1,0 +1,2 @@
+Smallyolo3:mAP 30.4 / large object:27.2 / size 8.1M / time(s7 eage) 570ms
+Smallyolo3FocalLoss:mAp 32.4 /large object:30.4 /size 8.1M
