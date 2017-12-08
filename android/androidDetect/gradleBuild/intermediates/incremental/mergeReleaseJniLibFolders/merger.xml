@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/lin/HS-works/github/androidDetect/libs"><file name="armeabi-v7a/libncnn.a" path="/home/lin/HS-works/github/androidDetect/libs/armeabi-v7a/libncnn.a"/><file name="armeabi-v7a/libncnn1.a" path="/home/lin/HS-works/github/androidDetect/libs/armeabi-v7a/libncnn1.a"/></source></dataSet><dataSet config="release"><source path="/home/lin/HS-works/github/androidDetect/build-types/release/jniLibs"/></dataSet></merger>

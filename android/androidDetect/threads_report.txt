@@ -1,0 +1,65 @@
+"ImageListener@4565" prio=5 tid=0x2458 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	  at org.tensorflow.demo.DetectorActivity.processImageRGBbytes(DetectorActivity.java:145)
+	  at org.tensorflow.demo.CameraActivity.onImageAvailable(CameraActivity.java:167)
+	  at android.media.ImageReader$ListenerHandler.handleMessage(ImageReader.java:658)
+	  at android.os.Handler.dispatchMessage(Handler.java:102)
+	  at android.os.Looper.loop(Looper.java:154)
+	  at android.os.HandlerThread.run(HandlerThread.java:61)
+
+"main@4456" prio=5 tid=0x1 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Signal Catcher@4660" daemon prio=5 tid=0x244c nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"ReferenceQueueDaemon@4661" daemon prio=5 tid=0x244e nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerWatchdogDaemon@4662" daemon prio=5 tid=0x2450 nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"FinalizerDaemon@4663" daemon prio=5 tid=0x244f nid=NA waiting
+  java.lang.Thread.State: WAITING
+	 Incompatible thread state: thread not suspended
+
+"HeapTaskDaemon@4664" daemon prio=5 tid=0x2451 nid=NA waiting for monitor entry
+  java.lang.Thread.State: BLOCKED
+	 Incompatible thread state: thread not suspended
+
+"Binder:25631_1@4655" prio=5 tid=0x2452 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder:25631_2@4650" prio=5 tid=0x2453 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Profile Saver@4455" daemon prio=5 tid=0x2454 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder:25631_3@4470" prio=5 tid=0x2455 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"process reaper@4472" daemon prio=10 tid=0x2456 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"inference@4564" prio=5 tid=0x2457 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"RenderThread@4576" prio=5 tid=0x2459 nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
+"Binder:25631_4@4649" prio=5 tid=0x245a nid=NA runnable
+  java.lang.Thread.State: RUNNABLE
+	 Incompatible thread state: thread not suspended
+
