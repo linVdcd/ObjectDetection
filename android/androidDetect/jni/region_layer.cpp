@@ -156,7 +156,7 @@ void region_forward(float * input,int iw,int ih,int nw,int nh,int w,int h,int c,
 
     output = (float*)calloc(w*h*c,sizeof(float));
 
-    memcpy(output,input,w*h*c);
+    memcpy(output,input,w*h*c*sizeof(float));
     forward_act(input,output,w,h,c,classes,coords,num);
     //box *boxes = (box*)malloc(sizeof(box)*w*h*num);//calloc(w*h*num, sizeof(box));
     //float **probs = (float**)malloc(sizeof(float*)*w*h*num);//calloc(w*h*num, sizeof(float *));
